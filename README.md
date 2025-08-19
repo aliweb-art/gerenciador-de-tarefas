@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Aline Barbosa Pereira!
 
-🎓 **Estudante de Ciência da Computação**  
+🎓 **Estudante de Analise e Desenvolvimento de Sistema**  
 💻 Iniciando minha trajetória na área de Tecnologia da Informação, aprendendo e dando meus primeiros passos para me tornar uma desenvolvedora maravilhosa!
 
 ---
